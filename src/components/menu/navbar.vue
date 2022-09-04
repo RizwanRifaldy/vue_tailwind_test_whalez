@@ -16,7 +16,7 @@
         <span class="text-xs font-medium text-font-color-1">CLONE MANAGEMENT</span >
         <ul class="space-y-2">
             <li>
-                <button v-on:click="isOpen = !isOpen" type="button" class="  hover:bg-hover-color rounded-lg flex items-center p-2 text-base w-full ">
+                <button v-on:click="isOpen = !isOpen" type="button" class=" bg-hover-color hover:bg-hover-color rounded-lg flex items-center p-2 text-base w-full ">
                     <img src="@/assets/content.png" class="w-5" />
                     <span class="flex-1 ml-3 text-left font-normal text-font-color-2">Content</span>
                     <img src="@/assets/arrow.png" class="w-5" />
